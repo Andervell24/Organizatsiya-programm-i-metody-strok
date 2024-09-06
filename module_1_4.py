@@ -1,0 +1,8 @@
+my_string = input('Urban')
+print(my_string)
+print(my_string.upper('Urban'))
+print(my_string.lower('Urban'))
+my_string = my_string.replace(' Urban ', 'Urban')
+print(my_string)
+print(my_string[0])
+print(my_string[-1])
